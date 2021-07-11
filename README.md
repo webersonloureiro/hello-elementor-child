@@ -7,6 +7,7 @@ A child theme developed from scratch
 Hello Elementor Child Theme uses a number of open source projects to work properly:
 
 * [WordPress] - an open source content management system
+* [LocalWP] - an effortless way to develop WordPress sites locally
 * [Less] - a backwards-compatible language extension for CSS
 * [node.js] - evented I/O for the backend
 * [Gulp] - the streaming build system
@@ -23,6 +24,7 @@ Weberson Loureiro - WordPress Developer
 
    [node.js]: <http://nodejs.org>
    [WordPress]: <https://wordpress.org/>
+   [LocalWP]: <https://localwp.com/>
    [Less]: <http://lesscss.org/>
    [Gulp]: <http://gulpjs.com>
    [Coffee]: <https://en.wikipedia.org/wiki/Coffee>
